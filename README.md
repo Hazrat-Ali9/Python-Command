@@ -22,9 +22,14 @@
 
 # To access the admin interface, by admin user: python manage.py createsuperuser
 
-# Starts the development server on the internal IP at port 8000 : python manage.py runserver.
+# Starts the development server on the internal IP at port 8000 : python manage.py runserver
 
 # Django-autoslug is a reusable Django library that provides an improved slug field which can automatically : pip install django-autoslug
+
+# ( Errro Solving) : python -m pip install Pillow 
+
+# (SSLCOMMERZ PAYMENT) : pip install sslcommerz-lib 
+
 
 
 #  Python Game Command :  
